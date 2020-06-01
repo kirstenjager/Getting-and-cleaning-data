@@ -4,7 +4,8 @@ Course project of the Data science course: Getting and cleaning data
 This assignment asks you to provide:
 1) a tidy dataset
 2) a link to a Github repository with your script for performing the analysis
-3)  a code book that describes the variables, the data, and any transformations or work that you performed to clean up the data 
+3) a code book that describes the variables, the data, and any transformations or work that you performed to clean up the data 
+4) a ReadMe file  
 
 # Explanation of the files in this repository
 
